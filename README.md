@@ -31,9 +31,9 @@ Setup
 It's recommended to use a virtual environment.
 
 python -m venv venv
-# On macOS/Linux:
+On macOS/Linux:
 source venv/bin/activate
-# On Windows:
+On Windows:
 venv\Scripts\activate
 
 
@@ -96,5 +96,6 @@ The final, percentile-adjusted $\alpha$ (your required initial fund).
 Files:
 
 simulation_longevity_results.csv: A CSV file containing the t-values (fund longevity in months) from all simulations.
+
 
 simulation_longevity_plot.tiff: A TIFF image file showing the histogram of simulation results, with a vertical line marking your chosen percentile.
