@@ -1,3 +1,5 @@
+# stochastic-withdrawal-algorithm-jmf2025
+
 This project implements the stochastic algorithm described in the paper "Modeling A Systematic Withdrawal Plan: A Stochastic Algorithm to Estimate Initial Fund Requirement" (Dhamane, 2025).
 
 Paper Link: https://www.scirp.org/journal/paperinformation?paperid=140552
@@ -105,6 +107,7 @@ simulation_longevity_results.csv: A CSV file containing the t-values (fund longe
 
 
 simulation_longevity_plot.tiff: A TIFF image file showing the histogram of simulation results, with a vertical line marking your chosen percentile.
+
 
 
 
